@@ -1,0 +1,5 @@
+﻿textarea {
+	height: 6.25em;
+	resize: none;
+	border: 1px solid rgba(0,0,0,0.12);
+}
